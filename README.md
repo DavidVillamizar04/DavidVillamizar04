@@ -6,16 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVillamizar04&theme=elegant&area=true&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidVillamizar04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DavidVillamizar04&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=10" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -82,7 +72,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DavidVillamizar04/DavidVillamizar04/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidVillamizar04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DavidVillamizar04&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=10" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidVillamizar04&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
